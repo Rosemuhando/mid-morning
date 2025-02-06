@@ -1,4 +1,4 @@
-# arithimetic operators
+# arithmetic operators
 
 x = 40
 y = 32
